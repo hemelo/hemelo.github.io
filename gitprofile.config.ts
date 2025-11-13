@@ -112,7 +112,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'FIAP - Faculdade de Informática e Adminsitração Paulista',
+      institution: 'FIAP - Faculdade de Informática e Administração Paulista',
       degree: 'Bachelor',
       from: '2023',
       to: 'Present',
